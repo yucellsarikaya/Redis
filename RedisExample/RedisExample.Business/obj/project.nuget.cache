@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPxpBOzTTugLOYK8FO//79IUlGooNKv/dtntTaJD55e2xrDD8S6lG4lK9+yMCEAXqL++Fe/yecL7dkW1hg2EyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Redis\\RedisExample\\RedisExample.Business\\RedisExample.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yucelsarikaya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yucelsarikaya\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\yucelsarikaya\\.nuget\\packages\\stackexchange.redis\\2.9.17\\stackexchange.redis.2.9.17.nupkg.sha512",
+    "C:\\Users\\yucelsarikaya\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

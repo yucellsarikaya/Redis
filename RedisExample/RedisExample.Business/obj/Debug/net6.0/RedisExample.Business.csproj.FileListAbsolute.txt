@@ -1,0 +1,12 @@
+C:\Redis\RedisExample\RedisExample.Business\bin\Debug\net6.0\RedisExample.Business.deps.json
+C:\Redis\RedisExample\RedisExample.Business\bin\Debug\net6.0\RedisExample.Business.dll
+C:\Redis\RedisExample\RedisExample.Business\bin\Debug\net6.0\ref\RedisExample.Business.dll
+C:\Redis\RedisExample\RedisExample.Business\bin\Debug\net6.0\RedisExample.Business.pdb
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\RedisExample.Business.csproj.AssemblyReference.cache
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\RedisExample.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\RedisExample.Business.AssemblyInfoInputs.cache
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\RedisExample.Business.AssemblyInfo.cs
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\RedisExample.Business.csproj.CoreCompileInputs.cache
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\RedisExample.Business.dll
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\ref\RedisExample.Business.dll
+C:\Redis\RedisExample\RedisExample.Business\obj\Debug\net6.0\RedisExample.Business.pdb
